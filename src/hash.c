@@ -29,6 +29,7 @@
 #include <hash.h>
 #include <memory.h>
 #include <joedog/defs.h>
+#include <sys/types.h>
 
 typedef struct NODE
 {
